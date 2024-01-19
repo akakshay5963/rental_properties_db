@@ -1,0 +1,372 @@
+[{
+  "_id": {
+    "$oid": "65aa9606ba02838af7c0cd84"
+  },
+  "propertyType": "Resort",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "amenities": [
+    "Wi-Fi",
+    "Kitchen"
+  ],
+  "pricing": {
+    "nightlyRate": 100,
+    "cleaningFee": 25
+  },
+  "availability": {
+    "calendar": {
+      "2024-03-25": "Booked",
+      "2024-04-25": "Available"
+    }
+  },
+  "location": {
+    "address": "123 Main St, Cityville",
+    "coordinates": {
+      "latitude": 50.7128,
+      "longitude": -54.006
+    }
+  },
+  "host": {
+    "name": "John cena",
+    "contact": "john.cena@example.com",
+    "ratings": 4
+  },
+  "reservationHistory": [
+    {
+      "date": "2023-12-28",
+      "status": "Inompleted"
+    },
+    {
+      "date": "2024-04-25",
+      "status": "Upcoming"
+    }
+  ],
+  "userPreferences": {
+    "searchHistory": [
+      "Cityville",
+      " House"
+    ],
+    "savedFavorites": [
+      "567a890b154541523ef456gh789"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65aa9772ba02838af7c0cd85"
+  },
+  "propertyType": "Full hotel",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "amenities": [
+    "Wi-Fi",
+    "Kitchen",
+    "swimming pool"
+  ],
+  "pricing": {
+    "nightlyRate": 100,
+    "cleaningFee": 25
+  },
+  "availability": {
+    "calendar": {
+      "2024-03-25": "Booked",
+      "2024-04-25": "Available"
+    }
+  },
+  "location": {
+    "address": "xyz main st, City",
+    "coordinates": {
+      "latitude": 50.7128,
+      "longitude": -54.006
+    }
+  },
+  "host": {
+    "name": "akshay kumar",
+    "contact": "akshaykumar@example.com",
+    "ratings": 4.7
+  },
+  "reservationHistory": [
+    {
+      "date": "2029-12-28",
+      "status": "ompleted"
+    },
+    {
+      "date": "2028-04-25",
+      "status": "coming"
+    }
+  ],
+  "userPreferences": {
+    "searchHistory": [
+      "City",
+      " House"
+    ],
+    "savedFavorites": [
+      "567a890b154541523ef456gh789"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65aa98bcba02838af7c0cd86"
+  },
+  "propertyType": "Entire House",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "amenities": [
+    "Wi-Fi",
+    "Parking",
+    "Kitchen"
+  ],
+  "pricing": {
+    "nightlyRate": 150,
+    "cleaningFee": 50
+  },
+  "availability": {
+    "calendar": {
+      "2024-02-01": "Booked",
+      "2024-02-15": "Available",
+      "2024-03-05": "Booked"
+    }
+  },
+  "location": {
+    "address": "123 Main St, Cityville",
+    "coordinates": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "host": {
+    "name": "John Doe",
+    "contact": "john.doe@example.com",
+    "ratings": 4.8,
+    "reviews": [
+      {
+        "user": "Alice",
+        "comment": "Great host!"
+      },
+      {
+        "user": "Bob",
+        "comment": "Clean and comfortable"
+      }
+    ]
+  },
+  "reservationHistory": [
+    {
+      "date": "2023-12-20",
+      "status": "Completed"
+    },
+    {
+      "date": "2024-01-10",
+      "status": "Upcoming"
+    }
+  ],
+  "userPreferences": {
+    "searchHistory": [
+      "Cityville",
+      "Entire House"
+    ],
+    "savedFavorites": [
+      "567a890bcd123ef456gh789"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65aa9958ba02838af7c0cd87"
+  },
+  "propertyType": "Entire House",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "amenities": [
+    "Wi-Fi",
+    "Parking",
+    "Kitchen",
+    "swimming pool",
+    "Gaming Room"
+  ],
+  "pricing": {
+    "nightlyRate": 150,
+    "cleaningFee": 50
+  },
+  "availability": {
+    "calendar": {
+      "2024-02-01": "Booked",
+      "2024-02-15": "Available",
+      "2024-03-05": "Booked"
+    }
+  },
+  "location": {
+    "address": "abc Main St, Cityville",
+    "coordinates": {
+      "latitude": 50.7128,
+      "longitude": -75.006
+    }
+  },
+  "host": {
+    "name": "Janvii solanki",
+    "contact": "janviisolanki@example.com",
+    "ratings": 4.6,
+    "reviews": [
+      {
+        "user": "Alice",
+        "comment": "Great host!"
+      },
+      {
+        "user": "janvi",
+        "comment": "average"
+      }
+    ]
+  },
+  "reservationHistory": [
+    {
+      "date": "2023-12-20",
+      "status": "inCompleted"
+    },
+    {
+      "date": "2024-01-10",
+      "status": "Upcoming"
+    }
+  ],
+  "userPreferences": {
+    "searchHistory": [
+      "Cityville",
+      "Entire House"
+    ],
+    "savedFavorites": [
+      "567a890bcd123ef456gh789"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65aa99d8ba02838af7c0cd88"
+  },
+  "propertyType": "Resort",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "amenities": [
+    "Wi-Fi",
+    "Parking",
+    "Kitchen",
+    "swimming pool",
+    "Gaming Room"
+  ],
+  "pricing": {
+    "nightlyRate": 150,
+    "cleaningFee": 50
+  },
+  "availability": {
+    "calendar": {
+      "2024-02-01": "Booked",
+      "2024-02-15": "Available",
+      "2024-03-05": "Booked"
+    }
+  },
+  "location": {
+    "address": "abc Main St, Cityville",
+    "coordinates": {
+      "latitude": 50.7128,
+      "longitude": -75.006
+    }
+  },
+  "host": {
+    "name": "Nadeem Turab",
+    "contact": "Nadeemturabn@example.com",
+    "ratings": 4.8,
+    "reviews": [
+      {
+        "user": "nadeem",
+        "comment": "Not bad"
+      },
+      {
+        "user": "nadeem",
+        "comment": "average"
+      }
+    ]
+  },
+  "reservationHistory": [
+    {
+      "date": "2025-12-20",
+      "status": "Completed"
+    },
+    {
+      "date": "2026-01-10",
+      "status": "Upcoming"
+    }
+  ],
+  "userPreferences": {
+    "searchHistory": [
+      "Cityville",
+      "Resort"
+    ],
+    "savedFavorites": [
+      "567a890bcd123ef456gh789"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65aa9a55ba02838af7c0cd89"
+  },
+  "propertyType": "Entire Hotel",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "amenities": [
+    "Wi-Fi",
+    "Parking",
+    "Kitchen",
+    "swimming pool"
+  ],
+  "pricing": {
+    "nightlyRate": 150,
+    "cleaningFee": 500
+  },
+  "availability": {
+    "calendar": {
+      "2024-02-01": "Booked",
+      "2024-02-15": " Not Available",
+      "2024-03-05": "Booked"
+    }
+  },
+  "location": {
+    "address": " pqrMain St, Cityville",
+    "coordinates": {
+      "latitude": 50.7128,
+      "longitude": -75.006
+    }
+  },
+  "host": {
+    "name": "Roman reings",
+    "contact": "Nadeemturabn@example.com",
+    "ratings": 4.8,
+    "reviews": [
+      {
+        "user": "roman",
+        "comment": "Not bad"
+      },
+      {
+        "user": "roman",
+        "comment": "Too good"
+      }
+    ]
+  },
+  "reservationHistory": [
+    {
+      "date": "2025-10-20",
+      "status": "Completed"
+    },
+    {
+      "date": "2025-12-10",
+      "status": "coming"
+    }
+  ],
+  "userPreferences": {
+    "searchHistory": [
+      "Cityville",
+      "Resort"
+    ],
+    "savedFavorites": [
+      "567a890bcd123ef456gh789"
+    ]
+  }
+}]
